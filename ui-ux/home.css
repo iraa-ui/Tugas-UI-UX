@@ -1,0 +1,14 @@
+body{
+    background-image: url(img/bg.jpg);
+}
+.btn-dark{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.navbar-expand-lg{
+    background-color: rgb(133, 105, 66);
+}
+.yow{
+    margin-left:43% ;
+    margin-top: 10%;
+}
